@@ -1,0 +1,410 @@
+{
+  "x663-bwbj": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:46:58.285752",
+    "rows": 56,
+    "file": "cms_hospital_data\\Outpatient_and_Ambulatory_Surgery_Consumer_Assessm.csv"
+  },
+  "tf3h-mrrs": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:46:58.298918",
+    "rows": 1,
+    "file": "cms_hospital_data\\Outpatient_and_Ambulatory_Surgery_Consumer_Assessm.csv"
+  },
+  "tqkv-mgxq": {
+    "modified": "2026-01-26",
+    "last_downloaded": "2026-09-14T08:46:58.350870",
+    "rows": 320,
+    "file": "cms_hospital_data\\Comprehensive_Care_For_Joint_Replacement_Model___P.csv"
+  },
+  "48nr-hqxx": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:46:58.615734",
+    "rows": 4744,
+    "file": "cms_hospital_data\\Outpatient_and_Ambulatory_Surgery_Consumer_Assessm.csv"
+  },
+  "xrgf-x36b": {
+    "modified": "2025-12-09",
+    "last_downloaded": "2026-09-14T08:46:58.617954",
+    "rows": 13,
+    "file": "cms_hospital_data\\Table_2__FY2024_Distribution_of_Net_Change_in_Base.csv"
+  },
+  "5gv4-jwyv": {
+    "modified": "2025-12-09",
+    "last_downloaded": "2026-09-14T08:46:58.622017",
+    "rows": 33,
+    "file": "cms_hospital_data\\Table_1__FY2024_Net_Change_in_Base_Operating_DRG_P.csv"
+  },
+  "vtqa-m4zn": {
+    "modified": "2025-12-09",
+    "last_downloaded": "2026-09-14T08:46:58.900967",
+    "rows": 25,
+    "file": "cms_hospital_data\\Table_4__FY2024_Value_Based_Incentive_Payment_Amou.csv"
+  },
+  "u625-zae7": {
+    "modified": "2025-12-09",
+    "last_downloaded": "2026-09-14T08:46:58.912393",
+    "rows": 23,
+    "file": "cms_hospital_data\\Table_3__FY2024_Percent_Change_in_Medicare_Payment.csv"
+  },
+  "99ue-w85f": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:46:59.255064",
+    "rows": 51,
+    "file": "cms_hospital_data\\Patient_survey__HCAHPS____National.csv"
+  },
+  "84jm-wiui": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:46:59.484698",
+    "rows": 2856,
+    "file": "cms_hospital_data\\Patient_survey__HCAHPS____State.csv"
+  },
+  "muwa-iene": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:46:59.564499",
+    "rows": 52338,
+    "file": "cms_hospital_data\\CMS_Medicare_PSI_90_and_component_measures___six_d.csv"
+  },
+  "yd3s-jyhd": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:46:59.860650",
+    "rows": 6,
+    "file": "cms_hospital_data\\Healthcare_Associated_Infections___National.csv"
+  },
+  "k2ze-bqvw": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:46:59.922854",
+    "rows": 1008,
+    "file": "cms_hospital_data\\Healthcare_Associated_Infections___State.csv"
+  },
+  "s5pj-hua3": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:00.248206",
+    "rows": 15,
+    "file": "cms_hospital_data\\Outpatient_and_Ambulatory_Surgery_Consumer_Assessm.csv"
+  },
+  "6pfg-whmx": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:00.683139",
+    "rows": 840,
+    "file": "cms_hospital_data\\Outpatient_and_Ambulatory_Surgery_Consumer_Assessm.csv"
+  },
+  "ynj2-r877": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:00.915570",
+    "rows": 95800,
+    "file": "cms_hospital_data\\Complications_and_Deaths___Hospital.csv"
+  },
+  "z8ax-x9j1": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:01.441791",
+    "rows": 44,
+    "file": "cms_hospital_data\\Complications_and_Unplanned_Hospital_Visits___PPS_.csv"
+  },
+  "xubh-q36u": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:01.598615",
+    "rows": 5419,
+    "file": "cms_hospital_data\\Hospital_General_Information.csv"
+  },
+  "jfnd-nl7s": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:01.874104",
+    "rows": 4,
+    "file": "cms_hospital_data\\Complications_and_Unplanned_Hospital_Visits___PPS_.csv"
+  },
+  "5hk7-b79m": {
+    "modified": "2026-01-26",
+    "last_downloaded": "2026-09-14T08:47:02.389620",
+    "rows": 2974,
+    "file": "cms_hospital_data\\Medicare_Spending_Per_Beneficiary___Hospital_Addit.csv"
+  },
+  "yq43-i98g": {
+    "modified": "2026-01-26",
+    "last_downloaded": "2026-09-14T08:47:02.497305",
+    "rows": 3055,
+    "file": "cms_hospital_data\\Hospital_Acquired_Condition__HAC__Reduction_Progra.csv"
+  },
+  "k653-4ka8": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:03.089897",
+    "rows": 308,
+    "file": "cms_hospital_data\\Safety_and_Healthcare_Associated_Infection_Measure.csv"
+  },
+  "iy27-wz37": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:03.138878",
+    "rows": 748,
+    "file": "cms_hospital_data\\Patient_Survey__PCH___HCAHPS__PPS_Exempt_Cancer_Ho.csv"
+  },
+  "9g7e-btyt": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:03.550807",
+    "rows": 51,
+    "file": "cms_hospital_data\\Patient_Survey__PCH___HCAHPS__PPS_Exempt_Cancer_Ho.csv"
+  },
+  "qatj-nmws": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:03.967818",
+    "rows": 2856,
+    "file": "cms_hospital_data\\Patient_Survey__PCH___HCAHPS__PPS_Exempt_Cancer_Ho.csv"
+  },
+  "yizn-abxn": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:04.374434",
+    "rows": 92520,
+    "file": "cms_hospital_data\\Outpatient_and_Ambulatory_Surgery_Consumer_Assessm.csv"
+  },
+  "9n3s-kdb3": {
+    "modified": "2026-01-26",
+    "last_downloaded": "2026-09-14T08:47:04.827852",
+    "rows": 18330,
+    "file": "cms_hospital_data\\Hospital_Readmissions_Reduction_Program.csv"
+  },
+  "su9h-3pvj": {
+    "modified": "2026-01-26",
+    "last_downloaded": "2026-09-14T08:47:05.488044",
+    "rows": 2455,
+    "file": "cms_hospital_data\\Hospital_Value_Based_Purchasing__HVBP____Efficienc.csv"
+  },
+  "pudb-wetr": {
+    "modified": "2026-01-26",
+    "last_downloaded": "2026-09-14T08:47:06.314783",
+    "rows": 2455,
+    "file": "cms_hospital_data\\Hospital_Value_Based_Purchasing__HVBP____Clinical_.csv"
+  },
+  "77hc-ibv8": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:06.647768",
+    "rows": 172440,
+    "file": "cms_hospital_data\\Healthcare_Associated_Infections___Hospital.csv"
+  },
+  "ypbt-wvdk": {
+    "modified": "2026-01-26",
+    "last_downloaded": "2026-09-14T08:47:07.123337",
+    "rows": 2455,
+    "file": "cms_hospital_data\\Hospital_Value_Based_Purchasing__HVBP____Total_Per.csv"
+  },
+  "avtz-f2ge": {
+    "modified": "2026-01-26",
+    "last_downloaded": "2026-09-14T08:47:07.397336",
+    "rows": 2455,
+    "file": "cms_hospital_data\\Hospital_Value_Based_Purchasing__HVBP____Person_an.csv"
+  },
+  "dgmq-aat3": {
+    "modified": "2026-04-28",
+    "last_downloaded": "2026-09-14T08:47:07.469860",
+    "rows": 2455,
+    "file": "cms_hospital_data\\Hospital_Value_Based_Purchasing__HVBP____Safety.csv"
+  },
+  "3n5g-6b7f": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:07.818335",
+    "rows": 1,
+    "file": "cms_hospital_data\\Medicare_Spending_Per_Beneficiary___National.csv"
+  },
+  "rs6n-9qwg": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:07.845342",
+    "rows": 56,
+    "file": "cms_hospital_data\\Medicare_Spending_Per_Beneficiary___State.csv"
+  },
+  "rrqw-56er": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:08.033616",
+    "rows": 4626,
+    "file": "cms_hospital_data\\Medicare_Spending_Per_Beneficiary___Hospital.csv"
+  },
+  "di9i-zzrc": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:08.370312",
+    "rows": 2,
+    "file": "cms_hospital_data\\Outpatient_Imaging_Efficiency___National.csv"
+  },
+  "if5v-4x48": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:08.503175",
+    "rows": 112,
+    "file": "cms_hospital_data\\Outpatient_Imaging_Efficiency___State.csv"
+  },
+  "wkfw-kthe": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:08.774052",
+    "rows": 9252,
+    "file": "cms_hospital_data\\Outpatient_Imaging_Efficiency___Hospital.csv"
+  },
+  "cvcs-xecj": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:09.127857",
+    "rows": 14,
+    "file": "cms_hospital_data\\Unplanned_Hospital_Visits___National.csv"
+  },
+  "4gkm-5ypv": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:09.494913",
+    "rows": 784,
+    "file": "cms_hospital_data\\Unplanned_Hospital_Visits___State.csv"
+  },
+  "6qxe-iqz8": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:09.935686",
+    "rows": 660,
+    "file": "cms_hospital_data\\Veterans_Health_Administration_Behavioral_Health_D.csv"
+  },
+  "ptds-r8im": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:10.516268",
+    "rows": 1452,
+    "file": "cms_hospital_data\\Veterans_Health_Administration_Timely_and_Effectiv.csv"
+  },
+  "uyx4-5s7f": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:11.036387",
+    "rows": 132,
+    "file": "cms_hospital_data\\Veterans_Health_Administration_Provider_Level_Data.csv"
+  },
+  "dgck-syfz": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:11.050744",
+    "rows": 325720,
+    "file": "cms_hospital_data\\Patient_survey__HCAHPS____Hospital.csv"
+  },
+  "nrth-mfg3": {
+    "modified": "2026-01-26",
+    "last_downloaded": "2026-09-14T08:47:11.164022",
+    "rows": 63646,
+    "file": "cms_hospital_data\\Medicare_Hospital_Spending_by_Claim.csv"
+  },
+  "azum-44iv": {
+    "modified": "2026-05-12",
+    "last_downloaded": "2026-09-14T08:47:11.276627",
+    "rows": 311,
+    "file": "cms_hospital_data\\Long_Term_Care_Hospital___General_Information.csv"
+  },
+  "632h-zaca": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:12.581265",
+    "rows": 67060,
+    "file": "cms_hospital_data\\Unplanned_Hospital_Visits___Hospital.csv"
+  },
+  "fp6g-2gsn": {
+    "modified": "2026-05-12",
+    "last_downloaded": "2026-09-14T08:47:13.556133",
+    "rows": 24258,
+    "file": "cms_hospital_data\\Long_Term_Care_Hospital___Provider_Data.csv"
+  },
+  "a0cb-cdab": {
+    "modified": "2024-08-05",
+    "last_downloaded": "2026-09-14T08:47:14.269185",
+    "rows": 42966,
+    "file": "cms_hospital_data\\Hospitalist_Office_Visit_Costs.csv"
+  },
+  "5zdx-ny2x": {
+    "modified": "2026-05-12",
+    "last_downloaded": "2026-09-14T08:47:14.354612",
+    "rows": 27,
+    "file": "cms_hospital_data\\Long_Term_Care_Hospital___National_Data.csv"
+  },
+  "6uyb-waub": {
+    "modified": "2026-07-01",
+    "last_downloaded": "2026-09-14T08:47:14.392505",
+    "rows": 43548,
+    "file": "cms_hospital_data\\Skilled_Nursing_Facility_Quality_Reporting_Program.csv"
+  },
+  "qoeg-w7ck": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:14.777256",
+    "rows": 44,
+    "file": "cms_hospital_data\\Palliative_Care___PPS_Exempt_Cancer_Hospital___Hos.csv"
+  },
+  "yv7e-xc69": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:14.920379",
+    "rows": 138084,
+    "file": "cms_hospital_data\\Timely_and_Effective_Care___Hospital.csv"
+  },
+  "qigt-w5cx": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:15.121645",
+    "rows": 4,
+    "file": "cms_hospital_data\\Palliative_Care___PPS_Exempt_Cancer_Hospital___Nat.csv"
+  },
+  "shr": {
+    "modified": "2025-12-16",
+    "last_downloaded": "2026-09-14T08:47:15.153201",
+    "rows": 7558,
+    "file": "cms_hospital_data\\ESRD_QIP___Standardized_Hospitalization_Ratio___Pa.csv"
+  },
+  "mxtu-43qs": {
+    "modified": "2026-08-05",
+    "last_downloaded": "2026-09-14T08:47:15.196025",
+    "rows": 4626,
+    "file": "cms_hospital_data\\Patient_Reported_Outcomes___Hospital.csv"
+  },
+  "nrdb-3fcy": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:15.333628",
+    "rows": 17936,
+    "file": "cms_hospital_data\\Maternal_Health___Hospital.csv"
+  },
+  "f4ga-b9gx": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:15.445572",
+    "rows": 4626,
+    "file": "cms_hospital_data\\Promoting_Interoperability___Hospital.csv"
+  },
+  "hbf-map": {
+    "modified": "2026-07-28",
+    "last_downloaded": "2026-09-14T08:47:15.479719",
+    "rows": 2263,
+    "file": "cms_hospital_data\\Birthing_Friendly_Hospitals_with_Geocoded_Addresse.csv"
+  },
+  "d2k3-k3ac": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:15.490385",
+    "rows": 8,
+    "file": "cms_hospital_data\\Rural_Emergency_Hospital_Timely_and_Effective_Care.csv"
+  },
+  "97xg-v3wv": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:15.512332",
+    "rows": 172,
+    "file": "cms_hospital_data\\Rural_Emergency_Hospital_Timely_and_Effective_Care.csv"
+  },
+  "7peb-i4pi": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:15.545351",
+    "rows": 43,
+    "file": "cms_hospital_data\\Rural_Emergency_Hospital_Outpatient_Imaging_Effici.csv"
+  },
+  "zt3q-3e1z": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:15.699274",
+    "rows": 1,
+    "file": "cms_hospital_data\\Rural_Emergency_Hospital_Outpatient_Imaging_Effici.csv"
+  },
+  "uk3n-au7a": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:15.706622",
+    "rows": 1,
+    "file": "cms_hospital_data\\Rural_Emergency_Hospital_Unplanned_Hospital_Visits.csv"
+  },
+  "zez1-ka2w": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:15.718996",
+    "rows": 43,
+    "file": "cms_hospital_data\\Rural_Emergency_Hospital_Unplanned_Hospital_Visits.csv"
+  },
+  "1su6-zfft": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:15.767061",
+    "rows": 11,
+    "file": "cms_hospital_data\\Patient_Engagement_PPS_Exempt_Cancer_Hospital___Ho.csv"
+  },
+  "4dyz-5kt1": {
+    "modified": "2026-07-22",
+    "last_downloaded": "2026-09-14T08:47:15.779181",
+    "rows": 1,
+    "file": "cms_hospital_data\\Patient_Engagement_PPS_Exempt_Cancer_Hospital___Na.csv"
+  }
+}
